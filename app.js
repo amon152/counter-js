@@ -1,3 +1,4 @@
+// initialize
 var count = 0;
 
 function add() {
